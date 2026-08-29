@@ -48,137 +48,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-* **[Beehiiv](https://www.beehiiv.com/)**
-
-  Creator-focused newsletter platform supporting publishing, audience growth, referral programs, analytics, advertising and newsletter monetization.
-
-
-
-* **[Substack](https://substack.com/)**
-
-  Newsletter publishing platform enabling writers and publishers to distribute free and paid email publications with subscription and payment features.
-
-
-
-* **[Kit](https://kit.com/)**
-
-  Creator-focused email marketing and newsletter platform, formerly known as ConvertKit, supporting subscriber management, automations, landing pages and audience monetization.
-
-
-
-* **[Mailchimp](https://mailchimp.com/)**
-
-  Major email marketing and automation platform supporting newsletters, audience segmentation, campaigns, templates, analytics and marketing workflows.
-
-
-
-* **[MailerLite](https://www.mailerlite.com/)**
-
-  Email marketing platform offering newsletters, automation, landing pages, forms and subscriber management.
-
-
-
-* **[Buttondown](https://buttondown.com/)**
-
-  Lightweight newsletter platform focused on writing, publishing, subscriber management and simple email newsletter workflows.
-
-
-
-* **[Ghost](https://ghost.org/)**
-
-  Publishing and membership platform supporting websites, blogs, subscriber management, paid memberships and integrated newsletters.
-
-
-
-* **[Audienceful](https://www.audienceful.com/)**
-
-  Newsletter-focused platform designed for audience management, publishing and newsletter growth workflows.
-
-
-
-* **[Flodesk](https://flodesk.com/)**
-
-  Email marketing platform focused on visually designed email campaigns, subscriber management, forms and automation.
-
-
-
-* **[Campaign Monitor](https://www.campaignmonitor.com/)**
-
-  Email marketing platform supporting campaigns, automation, audience segmentation and reporting.
-
-
-
-* **[Brevo](https://www.brevo.com/)**
-
-  Customer communication and email marketing platform supporting newsletters, transactional email, automation and multi-channel messaging.
-
-
-
-* **[ActiveCampaign](https://www.activecampaign.com/)**
-
-  Marketing automation and customer experience platform with email campaigns, automation workflows and CRM capabilities.
-
-
-
-* **[Klaviyo](https://www.klaviyo.com/)**
-
-  Marketing automation platform focused heavily on ecommerce email and SMS campaigns, customer segmentation and personalization.
-
-
-
-* **[Drip](https://www.drip.com/)**
-
-  Ecommerce-focused marketing automation platform supporting targeted campaigns, segmentation and automated customer journeys.
-
-
-
-* **[GetResponse](https://www.getresponse.com/)**
-
-  Email marketing platform providing newsletters, automation, landing pages and audience management.
-
-
-
-* **[AWeber](https://www.aweber.com/)**
-
-  Long-established email marketing and newsletter platform supporting subscriber lists, campaigns and automation.
-
-
-
-* **[Mailjet](https://www.mailjet.com/)**
-
-  Email delivery and marketing platform supporting transactional and marketing email, templates and campaign management.
-
-
-
-* **[EmailOctopus](https://emailoctopus.com/)**
-
-  Email marketing platform designed for newsletters, subscriber lists, campaigns and integrations.
-
-
-
-* **[Loops](https://loops.so/)**
-
-  Modern email platform focused on SaaS and product-led businesses, with transactional and marketing email workflows.
-
-
-
-* **[beehiiv Enterprise](https://www.beehiiv.com/)**
-
-  Enterprise-oriented newsletter infrastructure for larger publishers requiring audience growth and monetization capabilities.
-
-
-
-* **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)**
-
-  Marketing automation platform combining email campaigns with CRM, forms, landing pages and customer engagement tools.
-
-
-
-* **[Omnisend](https://www.omnisend.com/)**
-
-  Ecommerce marketing automation platform supporting email, SMS and automated customer communication.
+| Product | Description | Starting Price | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Beehiiv](https://www.beehiiv.com/)** | Creator-focused newsletter platform supporting publishing, audience growth, referral programs, analytics, advertising and newsletter monetization. | $43/mo (Scale plan, billed annually) or $49/mo (monthly) for up to 1,000 subscribers | Free forever (Launch plan): Up to 2,500 subscribers, unlimited sends, web hosting, and recommendation network |
+| **[Substack](https://substack.com/)** | Newsletter publishing platform enabling writers and publishers to distribute free and paid email publications with subscription and payment features. | Free to publish (10% platform fee + ~2.9% + $0.30 Stripe fee only on paid subscriptions) | Free forever: Unlimited subscribers, unlimited email sends, and full publishing features |
+| **[Kit](https://kit.com/)** | Creator-focused email marketing and newsletter platform (formerly ConvertKit) supporting subscriber management, automations, and landing pages. | $33/mo (billed annually) or $39/mo (monthly) for up to 1,000 subscribers (Creator plan) | Free forever (Newsletter plan): Up to 10,000 subscribers, unlimited email broadcasts, unlimited landing pages/forms, and 1 visual automation |
+| **[Mailchimp](https://mailchimp.com/)** | Major email marketing and automation platform supporting newsletters, audience segmentation, campaigns, templates, and analytics. | $13/mo (Essentials plan, up to 500 contacts & 5,000 sends/mo) | Free forever: Up to 250 contacts, 500 email sends/month (daily limit of 500 sends), 1 user seat |
+| **[MailerLite](https://www.mailerlite.com/)** | Email marketing platform offering newsletters, automation, landing pages, forms, and subscriber management. | $10/mo (Comfort plan, billed annually) or $12/mo (monthly) for up to 500 subscribers with unlimited sends | Free forever: Up to 250 subscribers, 2,500 emails/month, 3 automations, 2 user seats |
+| **[Buttondown](https://buttondown.com/)** | Lightweight newsletter platform focused on writing, publishing, subscriber management, and simple email newsletter workflows. | $9/mo (Basic plan) for up to 1,000 subscribers | Free forever: Up to 100 subscribers, unlimited email sends, web archive, and RSS-to-email |
+| **[Ghost](https://ghost.org/)** | Publishing and membership platform supporting websites, blogs, subscriber management, paid memberships, and integrated newsletters. | $15/mo (Starter plan, billed annually) or $18/mo (monthly) for Ghost(Pro) managed hosting up to 1,000 members | 14-day free trial of Ghost(Pro) with full features (no credit card required); self-hosted open-source version is free |
+| **[Audienceful](https://www.audienceful.com/)** | Newsletter-focused platform designed for audience management, publishing, and minimalist newsletter growth workflows. | $29/mo (Essentials plan, billed annually) or $39/mo (monthly) for up to 3,000 contacts | Free forever: Up to 1,000 contacts, 1 team collaborator, and 1 automated journey (Audienceful branding included) |
+| **[Flodesk](https://flodesk.com/)** | Email marketing platform focused on visually designed email campaigns, subscriber management, forms, and automation. | $25/mo (Lite plan) or $28/mo (Pro plan) for up to 1,000 subscribers | 14-day free trial with full sending features (capped at 500 emails/day); transitions to Free plan (forms and landing pages only, no email sending) |
+| **[Campaign Monitor](https://www.campaignmonitor.com/)** | Email marketing platform supporting campaigns, automation, audience segmentation, and reporting. | $12/mo (Lite plan, billed annually) or $13/mo (monthly) for up to 500 contacts and 2,500 sends/mo | Free trial: Send campaigns to up to 5 test contacts across unlimited trial duration (no permanent free sending tier) |
+| **[Brevo](https://www.brevo.com/)** | Customer communication and email marketing platform supporting newsletters, transactional email, automation, and multi-channel messaging. | $9/mo (Starter plan) for up to 5,000 emails/month with no daily sending limits | Free forever: Unlimited contacts, 300 emails/day sending limit (~9,000 emails/month) |
+| **[ActiveCampaign](https://www.activecampaign.com/)** | Marketing automation and customer experience platform with email campaigns, automation workflows, and CRM capabilities. | $15/mo (Starter plan, billed annually) for up to 1,000 contacts | 14-day free trial with access to core email marketing and automation features (up to 100 contacts/sends during trial) |
+| **[Klaviyo](https://www.klaviyo.com/)** | Marketing automation platform focused heavily on ecommerce email and SMS campaigns, customer segmentation, and personalization. | $20/mo (Email plan) for up to 500 active profiles and 5,000 email sends/month | Free forever: Up to 250 active profiles, 500 monthly email sends, and 150 free SMS/MMS credits |
+| **[Drip](https://www.drip.com/)** | Ecommerce-focused marketing automation platform supporting targeted campaigns, segmentation, and automated customer journeys. | $39/mo for up to 2,500 contacts and unlimited email sends | 14-day free trial with full feature access and up to 2,500 contacts (no credit card required) |
+| **[GetResponse](https://www.getresponse.com/)** | Email marketing platform providing newsletters, automation, landing pages, and audience management. | $19/mo (Starter plan) for up to 1,000 subscribers and unlimited email sends | Free forever (Free plan): Up to 500 contacts, 2,500 newsletter sends/month, 1 landing page/website builder |
+| **[AWeber](https://www.aweber.com/)** | Long-established email marketing and newsletter platform supporting subscriber lists, campaigns, and automation. | $15/mo (Lite plan, billed annually) for up to 500 subscribers with unlimited email sends | Free forever (Free plan): Up to 500 subscribers, 3,000 email sends/month, 1 landing page, 1 email automation sequence |
+| **[Mailjet](https://www.mailjet.com/)** | Email delivery and marketing platform supporting transactional and marketing email, templates, and campaign management. | $9/mo (Starter plan) for up to 8,000 emails/month with no daily sending limits | Free forever: Up to 6,000 emails/month (capped at 200 emails/day) and 1,000 contact limit |
+| **[EmailOctopus](https://emailoctopus.com/)** | Email marketing platform designed for newsletters, subscriber lists, campaigns, and integrations. | $9/mo (Pro plan, billed annually) or $10/mo (monthly) for up to 1,000 subscribers and 10,000 emails/month | Free forever (Starter plan): Up to 2,500 subscribers and 10,000 email sends/month |
+| **[Loops](https://loops.so/)** | Modern email platform focused on SaaS and product-led businesses, with transactional and marketing email workflows. | $49/mo for up to 2,000 subscribed contacts with unlimited sends and 1,000 emails/sec sending rate | Free forever: Up to 1,000 subscribed contacts, 4,000 email sends/month, 10 emails/sec rate limit (Loops branding included) |
+| **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)** | Marketing automation platform combining email campaigns with CRM, forms, landing pages, and customer engagement tools. | $20/seat/mo (Marketing Hub Starter, billed annually) for up to 1,000 marketing contacts | Free forever: Up to 1,000 non-marketing contacts, 2,000 email sends/month, free CRM, landing pages, and form builder |
+| **[Omnisend](https://www.omnisend.com/)** | Ecommerce marketing automation platform supporting email, SMS, and automated customer communication. | $16/mo (Standard plan) for up to 500 contacts and 6,000 emails/month + SMS credits | Free forever: Reach up to 250 contacts, 500 email sends/month, up to 60 SMS credits, and unlimited subscriber storage |
 
 
 
