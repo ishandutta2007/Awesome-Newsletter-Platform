@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Newsletter-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Newsletter-Platform?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Newsletter-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Newsletter-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Newsletter-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Newsletter-Platform?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Newsletter-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Newsletter-Platform" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Newsletter-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License" /></a>
@@ -96,257 +96,257 @@ All open-source tools below are categorized by functional layer in the modern em
 
 ### 📬 Dedicated Newsletter & Mailing List Platforms
 
-* **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
+* **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)  
   High-performance open-source, self-hosted newsletter and mailing-list manager written in Go with PostgreSQL. Features super-fast campaign dispatch, multi-mailing list management, dynamic templating, subscriber segmentation, custom attributes, and rich REST APIs.
 
-* **[Mautic](https://github.com/mautic/mautic)** [![GitHub Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
+* **[Mautic](https://github.com/mautic/mautic)** [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)  
   World's largest open-source marketing automation ecosystem providing advanced multi-channel drip sequences, dynamic behavioral segmentation, landing page builders, lead scoring, and comprehensive CRM/email integrations.
 
-* **[Mailtrain](https://github.com/Mailtrain-org/mailtrain)** [![GitHub Stars](https://img.shields.io/github/stars/Mailtrain-org/mailtrain?style=social&color=white)](https://github.com/Mailtrain-org/mailtrain/stargazers)  
+* **[Mailtrain](https://github.com/Mailtrain-org/mailtrain)** [![GitHub_Stars](https://img.shields.io/github/stars/Mailtrain-org/mailtrain?style=social&color=white)](https://github.com/Mailtrain-org/mailtrain/stargazers)  
   Self-hosted newsletter application built on Node.js and MySQL/MariaDB. Supports large subscriber lists (millions of contacts), custom fields, list segmentation, GPG encryption, click tracking, and custom SMTP/SES delivery.
 
-* **[phpList](https://github.com/phpList/phplist3)** [![GitHub Stars](https://img.shields.io/github/stars/phpList/phplist3?style=social&color=white)](https://github.com/phpList/phplist3/stargazers)  
+* **[phpList](https://github.com/phpList/phplist3)** [![GitHub_Stars](https://img.shields.io/github/stars/phpList/phplist3?style=social&color=white)](https://github.com/phpList/phplist3/stargazers)  
   Veteran, battle-tested open-source mailing-list manager and bulk email campaign platform powering email newsletters worldwide for over two decades.
 
-* **[Keila](https://github.com/pentacent/keila)** [![GitHub Stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)  
+* **[Keila](https://github.com/pentacent/keila)** [![GitHub_Stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)  
   Modern, privacy-respecting open-source newsletter tool built with Elixir and Phoenix. Features a block editor, Markdown support, double opt-in forms, custom contact fields, and comprehensive GDPR compliance without third-party tracking.
 
-* **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)  
+* **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)  
   Open-source customer engagement and event-driven messaging platform (Segment/Customer.io alternative) written in TypeScript. Enables automated email journeys triggered by product analytics events.
 
-* **[SendPortal](https://github.com/mettle/sendportal)** [![GitHub Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)  
+* **[SendPortal](https://github.com/mettle/sendportal)** [![GitHub_Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)  
   Open-source email marketing platform built on Laravel. Manages subscriber lists, segments, campaign scheduling, message tracking, and integrations with Amazon SES, SendGrid, Postmark, and Mailgun.
 
-* **[MailPoet](https://github.com/Automattic/mailpoet)** [![GitHub Stars](https://img.shields.io/github/stars/Automattic/mailpoet?style=social&color=white)](https://github.com/Automattic/mailpoet/stargazers)  
+* **[MailPoet](https://github.com/Automattic/mailpoet)** [![GitHub_Stars](https://img.shields.io/github/stars/Automattic/mailpoet?style=social&color=white)](https://github.com/Automattic/mailpoet/stargazers)  
   Official WordPress newsletter and email marketing plugin maintained by Automattic. Allows site owners to design responsive newsletters, send automated post notifications, and manage WooCommerce customer lists directly within WP admin.
 
-* **[OpenEMM](https://github.com/agnitas-org/openemm)** [![GitHub Stars](https://img.shields.io/github/stars/agnitas-org/openemm?style=social&color=white)](https://github.com/agnitas-org/openemm/stargazers)  
+* **[OpenEMM](https://github.com/agnitas-org/openemm)** [![GitHub_Stars](https://img.shields.io/github/stars/agnitas-org/openemm?style=social&color=white)](https://github.com/agnitas-org/openemm/stargazers)  
   Enterprise-grade open-source email marketing software offering automated lead generation, transactional mailings, recipient tracking, and detailed statistical reporting.
 
-* **[BillionMail](https://github.com/aaPanel/BillionMail)** [![GitHub Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=social&color=white)](https://github.com/aaPanel/BillionMail/stargazers)  
+* **[BillionMail](https://github.com/aaPanel/BillionMail)** [![GitHub_Stars](https://img.shields.io/github/stars/aaPanel/BillionMail?style=social&color=white)](https://github.com/aaPanel/BillionMail/stargazers)  
   Open-source high-concurrency email marketing system and campaign dispatch engine designed for multi-server delivery, bounce processing, and high-volume subscriber communication.
 
-* **[LetterSpace](https://github.com/LetterSpace/LetterSpace)** [![GitHub Stars](https://img.shields.io/github/stars/LetterSpace/LetterSpace?style=social&color=white)](https://github.com/LetterSpace/LetterSpace/stargazers)  
+* **[LetterSpace](https://github.com/LetterSpace/LetterSpace)** [![GitHub_Stars](https://img.shields.io/github/stars/LetterSpace/LetterSpace?style=social&color=white)](https://github.com/LetterSpace/LetterSpace/stargazers)  
   Lightweight open-source newsletter publishing application focusing on clean typography, writer-friendly editing interfaces, and modern API architecture.
 
 ---
 
 ### 📰 Publishing & CMS Platforms with Integrated Newsletters
 
-* **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
+* **[Hugo](https://github.com/gohugoio/hugo)** [![GitHub_Stars](https://img.shields.io/github/stars/gohugoio/hugo?style=social&color=white)](https://github.com/gohugoio/hugo/stargazers)  
   Ultra-fast Go-based static site generator commonly used by engineering publications to power static newsletter web archives and landing pages with custom form embeds.
 
-* **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+* **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
   Premier open-source publishing platform for independent journalists and creators. Natively integrates web publishing, member subscriptions, free/paid tiers, email newsletters, and audience analytics in a single dashboard.
 
-* **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub Stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)  
+* **[Jekyll](https://github.com/jekyll/jekyll)** [![GitHub_Stars](https://img.shields.io/github/stars/jekyll/jekyll?style=social&color=white)](https://github.com/jekyll/jekyll/stargazers)  
   Popular Ruby-based static site generator powering thousands of technical newsletters, developer changelogs, and RSS feeds.
 
-* **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
+* **[WordPress](https://github.com/WordPress/WordPress)** [![GitHub_Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=social&color=white)](https://github.com/WordPress/WordPress/stargazers)  
   The world's most widely adopted open-source content management system, easily extended into a full-scale newsletter platform via MailPoet, Newsletter plugin, and custom SMTP plugins.
 
-* **[Drupal](https://github.com/drupal/drupal)** [![GitHub Stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
+* **[Drupal](https://github.com/drupal/drupal)** [![GitHub_Stars](https://img.shields.io/github/stars/drupal/drupal?style=social&color=white)](https://github.com/drupal/drupal/stargazers)  
   Enterprise open-source CMS powering high-traffic digital publications, media conglomerates, and government newsletters with advanced editorial workflows and permission trees.
 
-* **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub Stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)  
+* **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub_Stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)  
   Federated, distraction-free open-source publishing network built on ActivityPub and Go, ideal for decentralized blogs and author newsletters.
 
-* **[Publii](https://github.com/GetPublii/Publii)** [![GitHub Stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
+* **[Publii](https://github.com/GetPublii/Publii)** [![GitHub_Stars](https://img.shields.io/github/stars/GetPublii/Publii?style=social&color=white)](https://github.com/GetPublii/Publii/stargazers)  
   Open-source privacy-focused desktop CMS for Mac and Windows that builds ultra-fast, secure static websites and email landing pages.
 
-* **[Plone](https://github.com/plone/Plone)** [![GitHub Stars](https://img.shields.io/github/stars/plone/Plone?style=social&color=white)](https://github.com/plone/Plone/stargazers)  
+* **[Plone](https://github.com/plone/Plone)** [![GitHub_Stars](https://img.shields.io/github/stars/plone/Plone?style=social&color=white)](https://github.com/plone/Plone/stargazers)  
   High-security Python enterprise CMS suitable for institutional communications, corporate intranets, and secure member newsletters.
 
 ---
 
 ### 🔄 Marketing Automation & Workflow Orchestration
 
-* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
+* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
   Open-source platform to programmatically author, schedule, and monitor complex batch data pipelines, subscriber synchronization, and automated multi-source newsletter compilation.
 
-* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation tool with 400+ native integrations. Perfect for connecting signup forms, CRM updates, AI content generation, and email campaign triggers.
 
-* **[Node-RED](https://github.com/node-red/node-red)** [![GitHub Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+* **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
   Visual flow-based low-code development tool for wiring together hardware devices, external APIs, webhooks, and real-time email notification workflows.
 
-* **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+* **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
   Open-source Zapier alternative designed for self-hosters. Automates subscriber registration pipelines, webhook alerts, and third-party SaaS syncing.
 
-* **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
+* **[Windmill](https://github.com/windmill-labs/windmill)** [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)  
   Fast open-source developer platform and workflow engine for turning scripts (Python, TypeScript, Go, Bash, SQL) into internal tools, scheduled jobs, and custom email pipelines.
 
-* **[Huginn](https://github.com/huginn/huginn)** [![GitHub Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+* **[Huginn](https://github.com/huginn/huginn)** [![GitHub_Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Open-source system for building autonomous online agents that monitor RSS feeds, web changes, and APIs, generating automated email digest newsletters.
 
 ---
 
 ### 👥 Subscriber Management & Open-Source CRMs
 
-* **[Odoo](https://github.com/odoo/odoo)** [![GitHub Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+* **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   All-in-one open-source business management suite featuring integrated CRM, mass mailing campaigns, contact segmentation, marketing automation, and subscription billing.
 
-* **[Twenty CRM](https://github.com/twentyhq/twenty)** [![GitHub Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+* **[Twenty CRM](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   Modern open-source CRM (Salesforce/HubSpot alternative) built with TypeScript and React. Provides custom object modeling, full audience relationship management, and email synchronization.
 
-* **[Monica CRM](https://github.com/monicahq/monica)** [![GitHub Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers)  
+* **[Monica CRM](https://github.com/monicahq/monica)** [![GitHub_Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers)  
   Open-source personal and community relationship manager for tracking notes, interactions, birthdays, and individual communication history with readers.
 
-* **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+* **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
   Fast, responsive open-source web application designed to evaluate, categorize, and track subscriber relationships, campaign conversions, and automated communication.
 
-* **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
+* **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
   Enterprise-ready open-source CRM application providing deep contact history, customer life-cycle workflows, email marketing modules, and reporting.
 
 ---
 
 ### 📝 Forms, Surveys & Lead Acquisition
 
-* **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+* **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   Open-source survey and experience management suite. Collects qualitative feedback, audience preferences, and reader onboarding data directly inside web apps or via email embeds.
 
-* **[SurveyJS](https://github.com/surveyjs/survey-library)** [![GitHub Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)  
+* **[SurveyJS](https://github.com/surveyjs/survey-library)** [![GitHub_Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)  
   Extensible JavaScript library and UI form-builder component for building complex, interactive multi-page subscriber registration and feedback forms.
 
-* **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
+* **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)  
   The world's leading open-source statistical survey and questionnaire software for collecting in-depth audience research and subscriber preferences.
 
-* **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub Stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
+* **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub_Stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers)  
   Open-source Typeform alternative for building beautiful, responsive conversational forms to capture email leads and subscriber survey answers.
 
-* **[Yakforms](https://github.com/Yakforms/yakforms)** [![GitHub Stars](https://img.shields.io/github/stars/Yakforms/yakforms?style=social&color=white)](https://github.com/Yakforms/yakforms/stargazers)  
+* **[Yakforms](https://github.com/Yakforms/yakforms)** [![GitHub_Stars](https://img.shields.io/github/stars/Yakforms/yakforms?style=social&color=white)](https://github.com/Yakforms/yakforms/stargazers)  
   Self-hosted, privacy-oriented form builder written in PHP, tailored for community organizations, non-profits, and educational publications.
 
 ---
 
 ### 🚀 Self-Hosted Mail Servers & SMTP Infrastructure
 
-* **[docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)** [![GitHub Stars](https://img.shields.io/github/stars/docker-mailserver/docker-mailserver?style=social&color=white)](https://github.com/docker-mailserver/docker-mailserver/stargazers)  
+* **[docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)** [![GitHub_Stars](https://img.shields.io/github/stars/docker-mailserver/docker-mailserver?style=social&color=white)](https://github.com/docker-mailserver/docker-mailserver/stargazers)  
   Full-stack, production-ready but simple containerized mail server (Postfix, Dovecot, SpamAssassin, ClamAV, OpenDKIM, Fail2ban) configured via environment variables.
 
-* **[Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)** [![GitHub Stars](https://img.shields.io/github/stars/mail-in-a-box/mailinabox?style=social&color=white)](https://github.com/mail-in-a-box/mailinabox/stargazers)  
+* **[Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)** [![GitHub_Stars](https://img.shields.io/github/stars/mail-in-a-box/mailinabox?style=social&color=white)](https://github.com/mail-in-a-box/mailinabox/stargazers)  
   One-click turn-key self-hosted email server solution with automated DNS configuration, free TLS certificates via Let's Encrypt, spam filtering, and automated backup.
 
-* **[Mailu](https://github.com/Mailu/Mailu)** [![GitHub Stars](https://img.shields.io/github/stars/Mailu/Mailu?style=social&color=white)](https://github.com/Mailu/Mailu/stargazers)  
+* **[Mailu](https://github.com/Mailu/Mailu)** [![GitHub_Stars](https://img.shields.io/github/stars/Mailu/Mailu?style=social&color=white)](https://github.com/Mailu/Mailu/stargazers)  
   Containerized mail distribution system featuring an administrative web UI, webmail (Roundcube/SnappyMail), antispam, antivirus, and DKIM signing.
 
-* **[Postal](https://github.com/postalserver/postal)** [![GitHub Stars](https://img.shields.io/github/stars/postalserver/postal?style=social&color=white)](https://github.com/postalserver/postal/stargazers)  
+* **[Postal](https://github.com/postalserver/postal)** [![GitHub_Stars](https://img.shields.io/github/stars/postalserver/postal?style=social&color=white)](https://github.com/postalserver/postal/stargazers)  
   Full-featured open-source mail delivery platform (SendGrid/Mailgun alternative) designed for web servers and applications sending high-volume transactional and newsletter mail.
 
-* **[mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized)** [![GitHub Stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social&color=white)](https://github.com/mailcow/mailcow-dockerized/stargazers)  
+* **[mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized)** [![GitHub_Stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social&color=white)](https://github.com/mailcow/mailcow-dockerized/stargazers)  
   Modern, complete email suite with SOGo groupware, Postfix, Dovecot, rspamd, Redis, and an intuitive administrative web interface.
 
-* **[Stalwart Mail Server](https://github.com/stalwartlabs/mail-server)** [![GitHub Stars](https://img.shields.io/github/stars/stalwartlabs/mail-server?style=social&color=white)](https://github.com/stalwartlabs/mail-server/stargazers)  
+* **[Stalwart Mail Server](https://github.com/stalwartlabs/mail-server)** [![GitHub_Stars](https://img.shields.io/github/stars/stalwartlabs/mail-server?style=social&color=white)](https://github.com/stalwartlabs/mail-server/stargazers)  
   Next-generation, all-in-one secure mail server written in Rust. Natively implements JMAP, IMAP4, SMTP, SPF, DKIM, DMARC, and ARC with ultra-low memory overhead.
 
-* **[Modoboa](https://github.com/modoboa/modoboa)** [![GitHub Stars](https://img.shields.io/github/stars/modoboa/modoboa?style=social&color=white)](https://github.com/modoboa/modoboa/stargazers)  
+* **[Modoboa](https://github.com/modoboa/modoboa)** [![GitHub_Stars](https://img.shields.io/github/stars/modoboa/modoboa?style=social&color=white)](https://github.com/modoboa/modoboa/stargazers)  
   Modular mail hosting and management platform written in Python and Django with an intuitive administrative interface, calendar, webmail, and auto-reply support.
 
-* **[Haraka](https://github.com/haraka/Haraka)** [![GitHub Stars](https://img.shields.io/github/stars/haraka/Haraka?style=social&color=white)](https://github.com/haraka/Haraka/stargazers)  
+* **[Haraka](https://github.com/haraka/Haraka)** [![GitHub_Stars](https://img.shields.io/github/stars/haraka/Haraka?style=social&color=white)](https://github.com/haraka/Haraka/stargazers)  
   High-performance, event-driven SMTP server written in Node.js with extensive plugin architecture capable of processing thousands of incoming messages per second.
 
-* **[SimpleLogin](https://github.com/simple-login/app)** [![GitHub Stars](https://img.shields.io/github/stars/simple-login/app?style=social&color=white)](https://github.com/simple-login/app/stargazers)  
+* **[SimpleLogin](https://github.com/simple-login/app)** [![GitHub_Stars](https://img.shields.io/github/stars/simple-login/app?style=social&color=white)](https://github.com/simple-login/app/stargazers)  
   Open-source email alias and privacy protection platform (acquired by Proton) allowing newsletter subscribers and creators to manage disposable forwarding addresses.
 
-* **[AnonAddy](https://github.com/anonaddy/anonaddy)** [![GitHub Stars](https://img.shields.io/github/stars/anonaddy/anonaddy?style=social&color=white)](https://github.com/anonaddy/anonaddy/stargazers)  
+* **[AnonAddy](https://github.com/anonaddy/anonaddy)** [![GitHub_Stars](https://img.shields.io/github/stars/anonaddy/anonaddy?style=social&color=white)](https://github.com/anonaddy/anonaddy/stargazers)  
   Anonymous open-source email forwarding service and alias manager built with Laravel, Postfix, and Redis.
 
-* **[Forward Email](https://github.com/forwardemail/free-email-forwarding)** [![GitHub Stars](https://img.shields.io/github/stars/forwardemail/free-email-forwarding?style=social&color=white)](https://github.com/forwardemail/free-email-forwarding/stargazers)  
+* **[Forward Email](https://github.com/forwardemail/free-email-forwarding)** [![GitHub_Stars](https://img.shields.io/github/stars/forwardemail/free-email-forwarding?style=social&color=white)](https://github.com/forwardemail/free-email-forwarding/stargazers)  
   Encrypted, privacy-focused open-source email forwarding and custom domain SMTP service.
 
 ---
 
 ### ⚡ Developer Email Engines, Templates & Notification APIs
 
-* **[Novu](https://github.com/novuhq/novu)** [![GitHub Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+* **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   The open-source notification infrastructure platform for developers. Provides visual workflow builders, multi-channel orchestration (Email, SMS, Push, In-App Chat), and digest engines.
 
-* **[React Email](https://github.com/resend/react-email)** [![GitHub Stars](https://img.shields.io/github/stars/resend/react-email?style=social&color=white)](https://github.com/resend/react-email/stargazers)  
+* **[React Email](https://github.com/resend/react-email)** [![GitHub_Stars](https://img.shields.io/github/stars/resend/react-email?style=social&color=white)](https://github.com/resend/react-email/stargazers)  
   Collection of high-quality, unstyled components for building rich email newsletters using React and TypeScript. Compile modern React components into robust cross-client HTML.
 
-* **[Nodemailer](https://github.com/nodemailer/nodemailer)** [![GitHub Stars](https://img.shields.io/github/stars/nodemailer/nodemailer?style=social&color=white)](https://github.com/nodemailer/nodemailer/stargazers)  
+* **[Nodemailer](https://github.com/nodemailer/nodemailer)** [![GitHub_Stars](https://img.shields.io/github/stars/nodemailer/nodemailer?style=social&color=white)](https://github.com/nodemailer/nodemailer/stargazers)  
   The standard Node.js email sending module used by thousands of newsletter backends and serverless functions worldwide.
 
-* **[MJML](https://github.com/mjmlio/mjml)** [![GitHub Stars](https://img.shields.io/github/stars/mjmlio/mjml?style=social&color=white)](https://github.com/mjmlio/mjml/stargazers)  
+* **[MJML](https://github.com/mjmlio/mjml)** [![GitHub_Stars](https://img.shields.io/github/stars/mjmlio/mjml?style=social&color=white)](https://github.com/mjmlio/mjml/stargazers)  
   Markup language designed to reduce the complexity of coding responsive email templates. Transpiles clean semantic tags into responsive HTML compliant with all major email clients.
 
-* **[Apprise](https://github.com/caronc/apprise)** [![GitHub Stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers)  
+* **[Apprise](https://github.com/caronc/apprise)** [![GitHub_Stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers)  
   Multi-platform push notification library for Python supporting 80+ notification services and email delivery providers via a unified URL schema.
 
-* **[Plunk](https://github.com/useplunk/plunk)** [![GitHub Stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)  
+* **[Plunk](https://github.com/useplunk/plunk)** [![GitHub_Stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)  
   Open-source email platform built for developers, combining transactional messaging, newsletter broadcasts, and automated drip sequences via an AWS SES backend.
 
-* **[Notifuse](https://github.com/notifuse/notifuse)** [![GitHub Stars](https://img.shields.io/github/stars/notifuse/notifuse?style=social&color=white)](https://github.com/notifuse/notifuse/stargazers)  
+* **[Notifuse](https://github.com/notifuse/notifuse)** [![GitHub_Stars](https://img.shields.io/github/stars/notifuse/notifuse?style=social&color=white)](https://github.com/notifuse/notifuse/stargazers)  
   Open-source smart notification platform for multi-channel email, SMS, and push communications with automatic contact deduplication and failover.
 
 ---
 
 ### 📊 Audience Analytics, Dashboards & Reporting
 
-* **[Grafana](https://github.com/grafana/grafana)** [![GitHub Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+* **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
   The open and composable observability and data visualization platform. Connects to Prometheus, InfluxDB, and SQL databases to monitor real-time email throughput, delivery latency, and bounce spikes.
 
-* **[Apache Superset](https://github.com/apache/superset)** [![GitHub Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+* **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
   Modern enterprise data exploration and visualization platform capable of slicing and dicing millions of subscriber interaction records and cohort engagement trends.
 
-* **[Metabase](https://github.com/metabase/metabase)** [![GitHub Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+* **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
   User-friendly open-source business intelligence tool that enables non-technical team members to ask questions, explore subscriber databases, and generate automated email performance dashboards.
 
-* **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
+* **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
   Leading open-source Google Analytics alternative providing complete data ownership, UTM campaign attribution, landing page conversion tracking, and heatmaps.
 
-* **[Umami](https://github.com/umami-software/umami)** [![GitHub Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
+* **[Umami](https://github.com/umami-software/umami)** [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
   Simple, fast, privacy-focused open-source analytics solution with lightweight tracking scripts for newsletter landing pages and signup funnels.
 
-* **[Plausible](https://github.com/plausible/analytics)** [![GitHub Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
+* **[Plausible](https://github.com/plausible/analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
   Lightweight and open-source website analytics tool built with Elixir. Fully compliant with GDPR, CCPA, and PECR without using cookies or collecting personal data.
 
-* **[Ackee](https://github.com/electerious/Ackee)** [![GitHub Stars](https://img.shields.io/github/stars/electerious/Ackee?style=social&color=white)](https://github.com/electerious/Ackee/stargazers)  
+* **[Ackee](https://github.com/electerious/Ackee)** [![GitHub_Stars](https://img.shields.io/github/stars/electerious/Ackee?style=social&color=white)](https://github.com/electerious/Ackee/stargazers)  
   Self-hosted, Node.js-based analytics tool for tracking website visitors, views, and referrer sources for independent publications.
 
 ---
 
 ### 💬 Communities, Discussion Forums & Memberships
 
-* **[Discourse](https://github.com/discourse/discourse)** [![GitHub Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)  
+* **[Discourse](https://github.com/discourse/discourse)** [![GitHub_Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)  
   Modern open-source discussion platform powering community conversations, email digest summaries, member directories, and reader engagement.
 
-* **[Flarum](https://github.com/flarum/flarum)** [![GitHub Stars](https://img.shields.io/github/stars/flarum/flarum?style=social&color=white)](https://github.com/flarum/flarum/stargazers)  
+* **[Flarum](https://github.com/flarum/flarum)** [![GitHub_Stars](https://img.shields.io/github/stars/flarum/flarum?style=social&color=white)](https://github.com/flarum/flarum/stargazers)  
   Delightfully simple, lightweight open-source forum software built with PHP and Mithril.js with lightning-fast discussion threads.
 
-* **[NodeBB](https://github.com/NodeBB/NodeBB)** [![GitHub Stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers)  
+* **[NodeBB](https://github.com/NodeBB/NodeBB)** [![GitHub_Stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers)  
   Next-generation community forum software powered by Node.js, WebSockets, and Redis with real-time notifications and newsletter email digest plugins.
 
-* **[HumHub](https://github.com/humhub/humhub)** [![GitHub Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)  
+* **[HumHub](https://github.com/humhub/humhub)** [![GitHub_Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)  
   Flexible open-source social network kit written in PHP for creating private communities, organization intranets, and interactive membership portals.
 
 ---
 
 ### 💳 Payments, Billing & Paid Subscriptions
 
-* **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
+* **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
   Customizable, open-source ecommerce platform built for WordPress. Supports recurring subscriptions, digital product sales, and member-only newsletter paywalls.
 
-* **[Solidus](https://github.com/solidusio/solidus)** [![GitHub Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+* **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
   Battle-tested open-source ecommerce framework for Ruby on Rails, easily customized for premium memberships, merchandise drops, and recurring digital billing.
 
-* **[Lago](https://github.com/getlago/lago)** [![GitHub Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
+* **[Lago](https://github.com/getlago/lago)** [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
   Open-source metering and billing infrastructure for usage-based and hybrid subscription revenue models.
 
-* **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+* **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
   Enterprise-grade open-source subscription billing and payment routing platform supporting multi-currency payment gateways and customized dunning workflows.
 
 ---
 
 ### 🌐 Translation & Multilingual Localization
 
-* **[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** [![GitHub Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)  
+* **[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)  
   Free and open-source machine translation engine powered by Argos Translate. 100% self-hosted, offline-capable, and private for automated newsletter translations.
 
-* **[Argos Translate](https://github.com/argosopentech/argos-translate)** [![GitHub Stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)  
+* **[Argos Translate](https://github.com/argosopentech/argos-translate)** [![GitHub_Stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)  
   Open-source offline neural machine translation library written in Python for building automated multi-language newsletter feeds.
 
-* **[Apertium](https://github.com/apertium)** [![GitHub Stars](https://img.shields.io/github/stars/apertium?style=social&color=white)](https://github.com/apertium/stargazers)  
+* **[Apertium](https://github.com/apertium)** [![GitHub_Stars](https://img.shields.io/github/stars/apertium?style=social&color=white)](https://github.com/apertium/stargazers)  
   Rule-based machine translation platform especially well-suited for closely related language pairs and minority language publishing.
 
 
